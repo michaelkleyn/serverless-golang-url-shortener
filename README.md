@@ -17,6 +17,8 @@ Welcome to the URL Shortener project! This application demonstrates how to build
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
+## Features
+
 - **Serverless Architecture**: Utilizes AWS Lambda and API Gateway for a fully serverless setup.
 - **Infrastructure as Code**: Managed with Terraform for reproducible deployments.
 - **Written in Go**: High-performance backend with Go's efficiency and concurrency.
